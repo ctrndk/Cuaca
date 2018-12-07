@@ -4,4 +4,7 @@
 
 Tugas 2 API Integration
 - [x] 2015150071
-- [ ] Catra Andika Ramadhani
+- [x] Catra Andika Ramadhani
+
+
+[DolananDev](http://dolanandev.com)
