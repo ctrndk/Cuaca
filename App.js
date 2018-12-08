@@ -111,9 +111,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#34495E',
 
   },
-  red: {
-    color: 'red',
-  },
+
   textStyle: {
     textAlign: 'center',
     fontFamily: Platform.OS === 'ios' ?  'AvenirNext-Regular' : 'Roboto',
@@ -126,22 +124,11 @@ const styles = StyleSheet.create({
   smallText: {
     fontSize: 18,
   },
-  mediumText: {
-    fontSize: 26,
-  },
+
   largeText: {
     fontSize: 44,
   },
-  TextInput: {
-    backgroundColor: '#666',
-    color: 'white',
-    height: 40,
-    width: 300,
-    marginTop: 20,
-    marginHorizontal: 40,
-    paddingHorizontal: 10,
-    alignSelf: 'center',
-  },
+
   imageContainer: { 
     flex: 1, 
   }, 
