@@ -21,7 +21,7 @@ constructor(props){
 }
 
 componentDidMount(){
- this.handleUpdateLocation('Catra Andika');
+ this.handleUpdateLocation('California');
 }
 
 
@@ -70,7 +70,7 @@ return (
           {error && (
 
             <Text style={[styles.smallText, styles.textStyle]}>
-              Keyword belum ada atau tidak dapat ditemukan :(
+             Kota tidak terdaftar di Database :(
             </Text>
           )}
 
