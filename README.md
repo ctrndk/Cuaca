@@ -28,6 +28,6 @@ Jika tidak ketemu
 ![SS3](https://github.com/ctrndk/Cuaca/blob/master/Screenshot_2018-12-20-16-02-43-309_host.exp.exponent.png)
 
 
-TIDAK DITEMUKAN? IP DIBLOK
+TIDAK DITEMUKAN, MUTER-MUTER? IP DIBLOK
 
-![SS4]()
+![SS4](https://github.com/ctrndk/Cuaca/blob/master/Screenshot_2018-12-20-16-06-18-656_host.exp.exponent.png)
