@@ -15,3 +15,5 @@ Tugas 2 API Integration
 
 Screen Pertama setelah dibuka
 ![SS1](https://github.com/ctrndk/Cuaca/blob/master/Screenshot_2018-12-20-15-37-48-135_host.exp.exponent.png)
+Hasil pencarian
+![SS2](https://github.com/ctrndk/Cuaca/blob/master/Screenshot_2018-12-20-15-57-09-497_host.exp.exponent.png)
