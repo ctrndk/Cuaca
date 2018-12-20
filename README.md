@@ -11,3 +11,7 @@ Tugas 2 API Integration
 
 
 [DolananDev](http://dolanandev.com)
+
+
+Screen Pertama setelah dibuka
+![SS1](https://github.com/ctrndk/Cuaca/blob/master/Screenshot_2018-12-20-15-37-48-135_host.exp.exponent.png)
