@@ -25,8 +25,9 @@ Hasil pencarian
 
 Jika tidak ketemu
 
-![SS3]()
+![SS3](https://github.com/ctrndk/Cuaca/blob/master/Screenshot_2018-12-20-16-02-43-309_host.exp.exponent.png)
+
 
 TIDAK DITEMUKAN? IP DIBLOK
 
-![]()
+![SS4]()
